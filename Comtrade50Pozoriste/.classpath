@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Eclipse Workspace JEE2/Pozoriste/mysql-connector-java-5.1.45/mysql-connector-java-5.1.45-bin.jar"/>
+	<classpathentry kind="lib" path="DateChooser.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="lib" path="D:/Eclipse VEZBA/Theater/libs/clock-1.0.0.final-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse VEZBA/Theater/libs/clock-2.0.0.beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse VEZBA/Theater/libs/DigitalClock.jar"/>
+	<classpathentry kind="lib" path="D:/Eclipse VEZBA/Theater/libs/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
